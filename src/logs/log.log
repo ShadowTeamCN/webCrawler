@@ -1,0 +1,41 @@
+2018-05-31 18:36:33  [ Thread-0:0 ] - [ INFO ]  Thread0:肖申克的救赎---crawStart0
+2018-05-31 18:36:33  [ Thread-3:0 ] - [ INFO ]  Thread3:盗梦空间---crawStart3
+2018-05-31 18:36:33  [ Thread-1:0 ] - [ INFO ]  Thread1:这个杀手不太冷---crawStart1
+2018-05-31 18:36:33  [ Thread-4:2 ] - [ INFO ]  Thread4:泰坦尼克号---crawStart4
+2018-05-31 18:36:33  [ Thread-2:0 ] - [ INFO ]  Thread2:阿甘正传---crawStart2
+2018-05-31 18:36:33  [ Thread-9:2 ] - [ INFO ]  Thread9:让子弹飞---crawStart9
+2018-05-31 18:36:33  [ Thread-8:2 ] - [ INFO ]  Thread8:海上钢琴师---crawStart8
+2018-05-31 18:36:33  [ Thread-7:2 ] - [ INFO ]  Thread7:霸王别姬---crawStart7
+2018-05-31 18:36:33  [ Thread-6:2 ] - [ INFO ]  Thread6:三傻大闹宝莱坞---crawStart6
+2018-05-31 18:36:33  [ Thread-5:2 ] - [ INFO ]  Thread5:千与千寻---crawStart5
+2018-05-31 18:36:39  [ Thread-5:5922 ] - [ INFO ]  crawMovieError
+2018-05-31 18:36:39  [ Thread-5:5922 ] - [ DEBUG ]  
+2018-05-31 18:36:39  [ Thread-5:5935 ] - [ INFO ]  Thread5:剪刀手爱德华---crawStart15
+2018-05-31 18:36:39  [ Thread-8:6550 ] - [ INFO ]  crawMovieError
+2018-05-31 18:36:39  [ Thread-8:6550 ] - [ DEBUG ]  
+2018-05-31 18:36:39  [ Thread-8:6551 ] - [ INFO ]  Thread8:那些年，我们一起追的女孩---crawStart18
+2018-05-31 18:36:40  [ Thread-6:6873 ] - [ INFO ]  crawMovieError
+2018-05-31 18:36:40  [ Thread-6:6873 ] - [ DEBUG ]  
+2018-05-31 18:36:40  [ Thread-6:6874 ] - [ INFO ]  Thread6:天使爱美丽---crawStart16
+2018-05-31 18:36:41  [ Thread-3:7904 ] - [ INFO ]  crawMovieError
+2018-05-31 18:36:41  [ Thread-3:7904 ] - [ DEBUG ]  
+2018-05-31 18:36:41  [ Thread-3:7904 ] - [ INFO ]  Thread3:阿凡达---crawStart13
+2018-05-31 18:38:31  [ Thread-0:0 ] - [ INFO ]  Thread0:肖申克的救赎---crawStart0
+2018-05-31 18:38:31  [ Thread-2:0 ] - [ INFO ]  Thread2:阿甘正传---crawStart2
+2018-05-31 18:38:31  [ Thread-3:0 ] - [ INFO ]  Thread3:盗梦空间---crawStart3
+2018-05-31 18:38:31  [ Thread-4:0 ] - [ INFO ]  Thread4:泰坦尼克号---crawStart4
+2018-05-31 18:38:31  [ Thread-1:0 ] - [ INFO ]  Thread1:这个杀手不太冷---crawStart1
+2018-05-31 18:38:31  [ Thread-5:2 ] - [ INFO ]  Thread5:千与千寻---crawStart5
+2018-05-31 18:38:31  [ Thread-8:2 ] - [ INFO ]  Thread8:海上钢琴师---crawStart8
+2018-05-31 18:38:31  [ Thread-9:2 ] - [ INFO ]  Thread9:让子弹飞---crawStart9
+2018-05-31 18:38:31  [ Thread-7:2 ] - [ INFO ]  Thread7:霸王别姬---crawStart7
+2018-05-31 18:38:31  [ Thread-6:2 ] - [ INFO ]  Thread6:三傻大闹宝莱坞---crawStart6
+2018-05-31 18:38:36  [ Thread-8:5349 ] - [ INFO ]  crawMovieError
+2018-05-31 18:38:36  [ Thread-8:5350 ] - [ DEBUG ]  
+2018-05-31 18:38:36  [ Thread-8:5365 ] - [ INFO ]  Thread8:那些年，我们一起追的女孩---crawStart18
+2018-05-31 18:38:37  [ Thread-6:6422 ] - [ INFO ]  crawMovieError
+2018-05-31 18:38:37  [ Thread-6:6422 ] - [ DEBUG ]  
+2018-05-31 18:38:37  [ Thread-6:6423 ] - [ INFO ]  Thread6:天使爱美丽---crawStart16
+2018-05-31 18:38:38  [ Thread-6:7433 ] - [ INFO ]  crawMovieError
+2018-05-31 18:38:38  [ Thread-6:7434 ] - [ DEBUG ]  
+2018-05-31 18:38:38  [ Thread-6:7434 ] - [ INFO ]  Thread6:龙猫---crawStart26
